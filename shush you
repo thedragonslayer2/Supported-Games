@@ -1,4 +1,4 @@
-local detectgames = {
+local Game_List = {
 	["6507422231"] = {
 		["Game Name"] = "---Twilight Daycare---",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Twilight%20Daycare"
@@ -16,4 +16,4 @@ local detectgames = {
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Creatures%20of%20Sonaria"
 	}
 }
-return detectgames
+return Game_List
