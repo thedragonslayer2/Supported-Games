@@ -101,17 +101,4 @@ local detectgames = {
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
 	}
 }
-local pages = game:GetService"AssetService":GetGamePlacesAsync()
-while wait() do
-	for i, place in pairs(pages:GetCurrentPage()) do
-		local gotgame = detectgames[tostring(place.PlaceId)]
-		if gotgame then
-			warn("\n\n\nExecuting " .. gotgame["Game Name"] .. " Script!\n\n\n")
-			return loadstring(game:HttpGet(gotgame.Link))()
-		end
-	end
-	if pages.IsFinished then break end
-	pages:AdvanceToNextPageAsync()
-end
-loadstring(game:HttpGet"https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/No%20Game%20Found")()
 return detectgames
