@@ -1,4 +1,4 @@
-local detectgames = {
+local Game_List = {
 	[""] = { ["Game Name"] = "--- ---", ["Link"] = "" },
 	["7393403076"] = {
 		["Game Name"] = "---Anime Artifacts Simulator---",
@@ -101,4 +101,4 @@ local detectgames = {
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
 	}
 }
-return detectgames
+return Game_List
