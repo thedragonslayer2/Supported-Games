@@ -101,3 +101,4 @@ local detectgames = {
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
 	}
 }
+return detectgames
