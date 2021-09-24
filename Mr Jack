@@ -1,5 +1,9 @@
 local Game_List = {
 	[""] = { ["Game Name"] = "--- ---", ["Link"] = "" },
+	["6432407703"] = {
+		["Game Name"] = "---Big City Tycoon---",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Big%20City%20Tycoon"
+	},
 	["2727067538"] = {
 		["Game Name"] = "---World Zero---",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/World%20Zero"
