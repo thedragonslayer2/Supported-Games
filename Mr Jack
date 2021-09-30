@@ -1,5 +1,17 @@
 local Game_List = {
 	[""] = { ["Game Name"] = "--- ---", ["Link"] = "" },
+	["3673909856"] = {
+		["Game Name"] = "---Super Mansion Tycoon 1---",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
+	["4613604501"] = {
+		["Game Name"] = "---Super Mansion Tycoon 2---",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
+	["6082207596"] = {
+		["Game Name"] = "---Super Mansion Tycoon 3---",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
 	["7082539621"] = {
 		["Game Name"] = "---Anime Destroyers---",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
