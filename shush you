@@ -1,18 +1,18 @@
-return {
-	["1831550657"] = {
-		["Name"] = "Creatures of Sonaria",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Creatures%20of%20Sonaria"
-	},
-	["856624085"] = {
-		["Name"] = "Twilight Daycare",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Twilight%20Daycare"
-	},
-	["52865000"] = {
-		["Name"] = "Epic Minigames",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Epic%20Minigames"
-	},
-	["714325242"] = {
-		["Name"] = "Animal Simulator",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Animal%20Simulator"
-	}
+{
+    "1831550657": {
+        "Name": "Creatures of Sonaria",
+        "Link": "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Creatures%20of%20Sonaria"
+    },
+    "856624085": {
+        "Name": "Twilight Daycare",
+        "Link": "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Twilight%20Daycare"
+    },
+    "52865000": {
+        "Name": "Epic Minigames",
+        "Link": "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Epic%20Minigames"
+    },
+    "714325242": {
+        "Name": "Animal Simulator",
+        "Link": "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Animal%20Simulator"
+    }
 }
