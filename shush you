@@ -1,19 +1,18 @@
-local Game_List = {
-	["6507422231"] = {
-		["Game Name"] = "---Twilight Daycare---",
+return {
+	["1831550657"] = {
+		["Name"] = "Creatures of Sonaria",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Creatures%20of%20Sonaria"
+	},
+	["856624085"] = {
+		["Name"] = "Twilight Daycare",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Twilight%20Daycare"
 	},
-	["3729611454"] = {
-		["Game Name"] = "---Epic Minigames---",
+	["52865000"] = {
+		["Name"] = "Epic Minigames",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Epic%20Minigames"
 	},
-	["5712833750"] = {
-		["Game Name"] = "---Animal Simulator---",
+	["714325242"] = {
+		["Name"] = "Animal Simulator",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Animal%20Simulator"
-	},
-	["5233782396"] = {
-		["Game Name"] = "---Creatures of Sonaria---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/not-mine/main/games/Creatures%20of%20Sonaria"
 	}
 }
-return Game_List
