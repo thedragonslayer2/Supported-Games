@@ -1,313 +1,158 @@
-local Game_List = {
-	[""] = { ["Game Name"] = "--- ---", ["Link"] = "" },
-	["5244411056"] = {
-		["Game Name"] = "---Bloxy Bingo---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Bloxy%20Bingo"
-	},
-	["6900861054"] = {
-		["Game Name"] = "---Countless Worlds---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Countless%20Worlds"
-	},
-	["6125809531"] = {
-		["Game Name"] = "---Untitled Attack On Titan---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Untitled%20Attack%20On%20Titan"
-	},
-	["4195834406"] = {
-		["Game Name"] = "---Dragon Ball Online Generations---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Online%20Generations"
-	},
-	["6484864709"] = {
-		["Game Name"] = "---Gym Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Gym%20Tycoon"
-	},
-	["7261675971"] = {
-		["Game Name"] = "---Anime Storm Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Storm%20Simulator"
-	},
-	["3673909856"] = {
-		["Game Name"] = "---Super Mansion Tycoon 1---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["4613604501"] = {
-		["Game Name"] = "---Super Mansion Tycoon 2---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["6082207596"] = {
-		["Game Name"] = "---Super Mansion Tycoon 3---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["7082539621"] = {
-		["Game Name"] = "---Anime Destroyers---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
-	},
-	["7476406054"] = {
-		["Game Name"] = "---Grow Up Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Grow%20Up%20Simulator"
-	},
-	["6432407703"] = {
-		["Game Name"] = "---Big City Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Big%20City%20Tycoon"
-	},
-	["2727067538"] = {
-		["Game Name"] = "---World Zero---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/World%20Zero"
-	},
-	["7015809878"] = {
-		["Game Name"] = "---Action Tower Defense---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Action%20Tower%20Defense"
-	},
-	["7393403076"] = {
-		["Game Name"] = "---Anime Artifacts Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
-	},
-	["7085995187"] = {
-		["Game Name"] = "---Super Strong Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%8F%86%20Super%20Strong%20Simulator"
-	},
-	["6951762614"] = {
-		["Game Name"] = "---UFO Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%9B%B8UFO%20Simulator"
-	},
-	["6672200623"] = {
-		["Game Name"] = "---Ninja Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%E2%9A%A1Ninja%20Simulator"
-	},
-	["7087534079"] = {
-		["Game Name"] = "---Naruto Defense Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Naruto%20Defense%20Simulator"
-	},
-	["4543144283"] = {
-		["Game Name"] = "---Mega Noob Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
-	},
-	["6953291455"] = {
-		["Game Name"] = "---Eating Simulator---",
+return {
+	["2663599422"] = {
+		["Name"] = "Eating Simulator",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Eating%20Simulator"
 	},
-	["7105775253"] = {
-		["Game Name"] = "---YEET Legends---",
+	["2747829371"] = {
+		["Name"] = "YEET Legends",
 		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/YEET%20Legends"
 	},
-	["3837864717"] = {
-		["Game Name"] = "---Spider-Man Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Spider-Man%20Simulator"
-	},
-	["6129557066"] = {
-		["Game Name"] = "---UFO Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/UFO%20Tycoon%20%F0%9F%9A%80"
-	},
-	["7180042682"] = {
-		["Game Name"] = "---Military Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Military%20Tycoon"
-	},
-	["4109933355"] = {
-		["Game Name"] = "---LEVEL 5 House Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/LEVEL%205%20House%20Tycoon"
-	},
-	["6377740507"] = {
-		["Game Name"] = "---Miraculous RP---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Miraculous%20RP"
-	},
-	["6296076147"] = {
-		["Game Name"] = "---My Dragon Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/My%20Dragon%20Tycoon"
-	},
-	["6458855006"] = {
-		["Game Name"] = "---Dragon Ball Final Hope---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Final%20Hope"
-	},
-	["6794368433"] = {
-		["Game Name"] = "---Be a Spider Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
-	},
-	["1828509885"] = {
-		["Game Name"] = "---Egg Farm Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
-	},
-	["6514274883"] = {
-		["Game Name"] = "---Dream Island Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dream%20Island%20Tycoon"
-	},
-	["6704182071"] = {
-		["Game Name"] = "---Cooking Simulator---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
-	},
-	["4505214429"] = {
-		["Game Name"] = "---Soul Eater---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Soul%20Eater"
-	},
-	["5534174456"] = {
-		["Game Name"] = "---Resort Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Resort%20Tycoon"
-	},
-	["6490016198"] = {
-		["Game Name"] = "---Slayer Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Slayer%20Tycoon"
-	},
-	["221718525"] = {
-		["Game Name"] = "---Ninja Tycoon---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Ninja%20Tycoon"
-	},
-	["5233782396"] = {
-		["Game Name"] = "---Creatures of Sonaria---[patched]",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Creatures%20of%20Sonaria"
-	},
-	["5343994291"] = {
-		["Game Name"] = "---Outlaster---",
-		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
-	}
-}
---[[
-	local Game_List = {
-	--[""] = { ["Game Name"] = "--- ---", ["Link"] = "" },
-	["2232507648"] = {
-	["Game Name"] = "---Untitled Attack On Titan---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Untitled%20Attack%20On%20Titan"
-	},
-	["1374118848"] = {
-	["Game Name"] = "---Dragon Ball Online Generations---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Online%20Generations"
-	},
-	["2423962400"] = {
-	["Game Name"] = "---Gym Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Gym%20Tycoon"
-	},
-	["2832356420"] = {
-	["Game Name"] = "---Anime Storm Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Storm%20Simulator"
-	},
-	["1280276210"] = {
-	["Game Name"] = "---Super Mansion Tycoon 1---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["1510089378"] = {
-	["Game Name"] = "---Super Mansion Tycoon 2---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["2208069834"] = {
-	["Game Name"] = "---Super Mansion Tycoon 3---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	["2734315222"] = {
-	["Game Name"] = "---Anime Destroyers---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
-	},
-	["2911459361"] = {
-	["Game Name"] = "---Grow Up Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Grow%20Up%20Simulator"
-	},
 	["2395874968"] = {
-	["Game Name"] = "---Big City Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Big%20City%20Tycoon"
-	},
-	["985731078"] = {
-	["Game Name"] = "---World Zero---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/World%20Zero"
-	},
-	["2697547415"] = {
-	["Game Name"] = "---Action Tower Defense---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Action%20Tower%20Defense"
-	},
-	["2881716908"] = {
-	["Game Name"] = "---Anime Artifacts Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
-	},
-	["2736321696"] = {
-	["Game Name"] = "---Super Strong Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%8F%86%20Super%20Strong%20Simulator"
-	},
-	["2662774960"] = {
-	["Game Name"] = "---UFO Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%9B%B8UFO%20Simulator"
+		["Name"] = "Big City Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Big%20City%20Tycoon"
 	},
 	["2512238361"] = {
-	["Game Name"] = "---Ninja Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%E2%9A%A1Ninja%20Simulator"
-	},
-	["2737364165"] = {
-	["Game Name"] = "---Naruto Defense Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Naruto%20Defense%20Simulator"
-	},
-	["1465584587"] = {
-	["Game Name"] = "---Mega Noob Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
-	},
-	["2663599422"] = {
-	["Game Name"] = "---Eating Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Eating%20Simulator"
-	},
-	["2747829371"] = {
-	["Game Name"] = "---YEET Legends---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/YEET%20Legends"
-	},
-	["1315966725"] = {
-	["Game Name"] = "---Spider-Man Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Spider-Man%20Simulator"
-	},
-	["2234531384"] = {
-	["Game Name"] = "---UFO Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/UFO%20Tycoon%20%F0%9F%9A%80"
-	},
-	["2788648141"] = {
-	["Game Name"] = "---Military Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Military%20Tycoon"
-	},
-	["1359362132"] = {
-	["Game Name"] = "---House Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/LEVEL%205%20House%20Tycoon"
-	},
-	["2366560560"] = {
-	["Game Name"] = "---Miraculous RP---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Miraculous%20RP"
-	},
-	["2322853480"] = {
-	["Game Name"] = "---My Dragon Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/My%20Dragon%20Tycoon"
-	},
-	["2410077994"] = {
-	["Game Name"] = "---Dragon Ball Final Hope---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Final%20Hope"
-	},
-	["2578882968"] = {
-	["Game Name"] = "---Be a Spider Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
-	},
-	["668582985"] = {
-	["Game Name"] = "---Egg Farm Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
-	},
-	["2439513265"] = {
-	["Game Name"] = "---Dream Island Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dream%20Island%20Tycoon"
-	},
-	["2530837063"] = {
-	["Game Name"] = "---Cooking Simulator---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
-	},
-	["1442319803"] = {
-	["Game Name"] = "---Soul Eater---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Soul%20Eater"
-	},
-	["1934249057"] = {
-	["Game Name"] = "---Resort Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Resort%20Tycoon"
+		["Name"] = "Ninja Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%E2%9A%A1Ninja%20Simulator"
 	},
 	["2426874309"] = {
-	["Game Name"] = "---Slayer Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Slayer%20Tycoon"
+		["Name"] = "Slayer Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Slayer%20Tycoon"
 	},
-	["97314177"] = {
-	["Game Name"] = "---Ninja Tycoon---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Ninja%20Tycoon"
+	["2232507648"] = {
+		["Name"] = "Untitled Attack On Titan",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Untitled%20Attack%20On%20Titan"
+	},
+	["668582985"] = {
+		["Name"] = "Egg Farm Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
+	},
+	["2832356420"] = {
+		["Name"] = "Anime Storm Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Storm%20Simulator"
+	},
+	["2410077994"] = {
+		["Name"] = "Dragon Ball Final Hope",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Final%20Hope"
+	},
+	["1934249057"] = {
+		["Name"] = "Resort Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Resort%20Tycoon"
+	},
+	["1280276210"] = {
+		["Name"] = "Super Mansion Tycoon 1",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
+	["1374118848"] = {
+		["Name"] = "Dragon Ball Online Generations",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Online%20Generations"
 	},
 	["1831550657"] = {
-	["Game Name"] = "---Creatures of Sonaria---[patched]",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Creatures%20of%20Sonaria"
+		["Name"] = "[patched]Creatures of Sonaria",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Creatures%20of%20Sonaria"
+	},
+	["2788648141"] = {
+		["Name"] = "Military Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Military%20Tycoon"
+	},
+	["1315966725"] = {
+		["Name"] = "Spider-Man Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Spider-Man%20Simulator"
+	},
+	["2322853480"] = {
+		["Name"] = "My Dragon Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/My%20Dragon%20Tycoon"
+	},
+	["97314177"] = {
+		["Name"] = "Ninja Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Ninja%20Tycoon"
+	},
+	["2578882968"] = {
+		["Name"] = "Be a Spider Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
+	},
+	["1836146838"] = {
+		["Name"] = "Bloxy Bingo",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Bloxy%20Bingo"
+	},
+	["2439513265"] = {
+		["Name"] = "Dream Island Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dream%20Island%20Tycoon"
+	},
+	["2208069834"] = {
+		["Name"] = "Super Mansion Tycoon 3",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
+	["2366560560"] = {
+		["Name"] = "Miraculous RP",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Miraculous%20RP"
+	},
+	["2911459361"] = {
+		["Name"] = "Grow Up Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Grow%20Up%20Simulator"
+	},
+	["2662774960"] = {
+		["Name"] = "UFO Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%9B%B8UFO%20Simulator"
 	},
 	["1871908106"] = {
-	["Game Name"] = "---Outlaster---",
-	["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
+		["Name"] = "Outlaster",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Outlaster"
+	},
+	["985731078"] = {
+		["Name"] = "World Zero",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/World%20Zero"
+	},
+	["2423962400"] = {
+		["Name"] = "Gym Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Gym%20Tycoon"
+	},
+	["1465584587"] = {
+		["Name"] = "Mega Noob Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
+	},
+	["2736321696"] = {
+		["Name"] = "Super Strong Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%8F%86%20Super%20Strong%20Simulator"
+	},
+	["2734315222"] = {
+		["Name"] = "Anime Destroyers",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
+	},
+	["1442319803"] = {
+		["Name"] = "Soul Eater",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Soul%20Eater"
+	},
+	["1359362132"] = {
+		["Name"] = "LEVEL 5 House Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/LEVEL%205%20House%20Tycoon"
+	},
+	["1510089378"] = {
+		["Name"] = "Super Mansion Tycoon 2",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
+	},
+	["2881716908"] = {
+		["Name"] = "Anime Artifacts Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
+	},
+	["2697547415"] = {
+		["Name"] = "Action Tower Defense",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Action%20Tower%20Defense"
+	},
+	["2634990870"] = {
+		["Name"] = "Countless Worlds",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Countless%20Worlds"
+	},
+	["2234531384"] = {
+		["Name"] = "UFO Tycoon",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/UFO%20Tycoon%20%F0%9F%9A%80"
+	},
+	["2530837063"] = {
+		["Name"] = "Cooking Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
+	},
+	["2737364165"] = {
+		["Name"] = "Naruto Defense Simulator",
+		["Link"] = "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Naruto%20Defense%20Simulator"
 	}
-	}
-]]
-return Game_List
+}
