@@ -1,4 +1,28 @@
 {
+	"1442319803": {
+		"Name": "Soul Eater Resonance - 4505214429",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Soul%20Eater%20Resonance%20-%204505214429.lua"
+	},
+	"1280276210": {
+		"Name": "Super Mansion Tycoon 1 - 3673909856",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Super%20Mansion%20Tycoon%201%2C%202%2C%20%26%203.lua"
+	},
+	"1510089378": {
+		"Name": "Super Mansion Tycoon 2 - 4613604501",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Super%20Mansion%20Tycoon%201%2C%202%2C%20%26%203.lua"
+	},
+	"2208069834": {
+		"Name": "Super Mansion Tycoon 3 - 6082207596",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Super%20Mansion%20Tycoon%201%2C%202%2C%20%26%203.lua"
+	},
+	"2662774960": {
+		"Name": "UFO Simulator - 6951762614",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/UFO%20Simulator%20-%206951762614.lua"
+	},
+	"2747829371": {
+		"Name": "YEET Legends - 7105775253",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/YEET%20Legends%20-%207105775253.lua"
+	},
 	"2727447177": {
 		"Name": "Pet Story - 7071444234",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Pet%20Story%20-%207071444234.lua"
@@ -9,7 +33,31 @@
 	},
 	"2234531384": {
 		"Name": "UFO Tycoon - 6129557066",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/UFO%20Tycoon%20-%206129557066"
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/UFO%20Tycoon%20-%206129557066.lua"
+	},
+	"985731078": {
+		"Name": "World Zero - 2727067538",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/World%20Zero%20-%202727067538.lua"
+	},
+	"2736321696": {
+		"Name": "Super Strong Simulator - 7085995187",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Super%20Strong%20Simulator%20-%207085995187.lua"
+	},
+	"1934249057": {
+		"Name": "Tropical Resort Tycoon - 5534174456",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Tropical%20Resort%20Tycoon%20-%205534174456.lua"
+	},
+	"2232507648": {
+		"Name": "Untitled Attack On Titan - 6125809531",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Untitled%20Attack%20On%20Titan%20-%206125809531.lua"
+	},
+	"2322853480": {
+		"Name": "My Dragon Tycoon - 6296076147",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/My%20Dragon%20Tycoon%20-%206296076147"
+	},
+	"2715844182": {
+		"Name": "Hospital Tycoon - 7050008107",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/Hospital%20Tycoon%20-%207050008107"
 	},
 	"1359362132": {
 		"Name": "House Tycoon - 4109933355",
@@ -27,18 +75,6 @@
 		"Name": "Action Tower Defense - 7015809878",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/Action%20Tower%20Defense%20-%207015809878"
 	},
-	"985731078": {
-		"Name": "World Zero - 2727067538",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/World%20Zero%20-%202727067538.lua"
-	},
-	"2322853480": {
-		"Name": "My Dragon Tycoon - 6296076147",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/My%20Dragon%20Tycoon%20-%206296076147"
-	},
-	"2715844182": {
-		"Name": "Hospital Tycoon - 7050008107",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/Hospital%20Tycoon%20-%207050008107"
-	},
 	"2410077994": {
 		"Name": "Dragon Ball Final Hope",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Final%20Hope"
@@ -51,19 +87,6 @@
 		"Name": "Mega Noob Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
 	},
-	"2734315222": {
-		"DISCONTINUED": true,
-		"Name": "Anime Destroyers",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
-	},
-	"1442319803": {
-		"Name": "Soul Eater",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Soul%20Eater"
-	},
-	"2736321696": {
-		"Name": "Super Strong Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%8F%86%20Super%20Strong%20Simulator"
-	},
 	"2512238361": {
 		"Name": "Ninja Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%E2%9A%A1Ninja%20Simulator"
@@ -71,10 +94,6 @@
 	"2426874309": {
 		"Name": "Slayer Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Slayer%20Tycoon"
-	},
-	"2232507648": {
-		"Name": "Untitled Attack On Titan",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Untitled%20Attack%20On%20Titan"
 	},
 	"668582985": {
 		"Name": "Egg Farm Simulator",
@@ -84,34 +103,13 @@
 		"Name": "Eating Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Eating%20Simulator"
 	},
-	"1934249057": {
-		"Name": "Resort Tycoon",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Resort%20Tycoon"
-	},
-	"1280276210": {
-		"Name": "Super Mansion Tycoon 1",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	"1315966725": {
-		"Name": "Spider-Man Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Spider-Man%20Simulator"
-	},
 	"97314177": {
 		"Name": "Ninja Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Ninja%20Tycoon"
 	},
-	"2578882968": {
-		"DISCONTINUED": true,
-		"Name": "Be a Spider Tycoon",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
-	},
 	"2439513265": {
 		"Name": "Dream Island Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dream%20Island%20Tycoon"
-	},
-	"2208069834": {
-		"Name": "Super Mansion Tycoon 3",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
 	},
 	"2366560560": {
 		"Name": "Miraculous RP",
@@ -133,14 +131,6 @@
 		"Name": "Gym Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Gym%20Tycoon"
 	},
-	"1510089378": {
-		"Name": "Super Mansion Tycoon 2",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Super%20Mansion%20Tycoon"
-	},
-	"2662774960": {
-		"Name": "UFO Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%F0%9F%9B%B8UFO%20Simulator"
-	},
 	"2788648141": {
 		"Name": "Military Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Military%20Tycoon"
@@ -148,6 +138,25 @@
 	"1374118848": {
 		"Name": "Dragon Ball Online Generations",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Online%20Generations"
+	},
+	"2737364165": {
+		"Name": "Naruto Defense Simulator",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Naruto%20Defense%20Simulator"
+	},
+	"1315966725": {
+		"DISCONTINUED": true,
+		"Name": "Spider-Man Simulator - 3837864717",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Spider-Man%20Simulator%20-%203837864717.lua"
+	},
+	"2578882968": {
+		"DISCONTINUED": true,
+		"Name": "Be a Spider Tycoon",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
+	},
+	"2530837063": {
+		"DISCONTINUED": true,
+		"Name": "Cooking Simulator",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
 	},
 	"1831550657": {
 		"DISCONTINUED": true,
@@ -159,17 +168,9 @@
 		"Name": "Anime Artifacts Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
 	},
-	"2747829371": {
-		"Name": "YEET Legends",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/YEET%20Legends"
-	},
-	"2530837063": {
+	"2734315222": {
 		"DISCONTINUED": true,
-		"Name": "Cooking Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
-	},
-	"2737364165": {
-		"Name": "Naruto Defense Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Naruto%20Defense%20Simulator"
+		"Name": "Anime Destroyers Simulator",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
 	}
 }
