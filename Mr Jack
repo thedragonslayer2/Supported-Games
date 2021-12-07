@@ -52,6 +52,7 @@
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
 	},
 	"2734315222": {
+		"DISCONTINUED": true,
 		"Name": "Anime Destroyers",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
 	},
@@ -100,6 +101,7 @@
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Ninja%20Tycoon"
 	},
 	"2578882968": {
+		"DISCONTINUED": true,
 		"Name": "Be a Spider Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Be%20a%20Spider!%20Tycoon"
 	},
@@ -148,10 +150,12 @@
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dragon%20Ball%20Online%20Generations"
 	},
 	"1831550657": {
-		"Name": "[patched]Creatures of Sonaria",
+		"DISCONTINUED": true,
+		"Name": "Creatures of Sonaria",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Creatures%20of%20Sonaria"
 	},
 	"2881716908": {
+		"DISCONTINUED": true,
 		"Name": "Anime Artifacts Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
 	},
@@ -160,6 +164,7 @@
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/YEET%20Legends"
 	},
 	"2530837063": {
+		"DISCONTINUED": true,
 		"Name": "Cooking Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Cooking%20Simulator"
 	},
