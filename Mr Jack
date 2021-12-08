@@ -47,10 +47,6 @@
 		"Name": "Untitled Attack On Titan - 6125809531",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Untitled%20Attack%20On%20Titan%20-%206125809531.lua"
 	},
-	"1442319803": {
-		"Name": "Soul Eater Resonance - 4505214429",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Soul%20Eater%20Resonance%20-%204505214429.lua"
-	},
 	"2322853480": {
 		"Name": "My Dragon Tycoon - 6296076147",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/My%20Dragon%20Tycoon%20-%206296076147"
@@ -111,10 +107,6 @@
 		"Name": "Dream Island Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Dream%20Island%20Tycoon"
 	},
-	"2366560560": {
-		"Name": "Miraculous RP",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Miraculous%20RP"
-	},
 	"2911459361": {
 		"Name": "Grow Up Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Grow%20Up%20Simulator"
@@ -148,6 +140,11 @@
 		"Name": "Spider-Man Simulator - 3837864717",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Spider-Man%20Simulator%20-%203837864717.lua"
 	},
+	"1442319803": {
+		"DISCONTINUED": true,
+		"Name": "Soul Eater Resonance - 4505214429",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Soul%20Eater%20Resonance%20-%204505214429.lua"
+	},
 	"2578882968": {
 		"DISCONTINUED": true,
 		"Name": "Be a Spider Tycoon",
@@ -167,6 +164,11 @@
 		"DISCONTINUED": true,
 		"Name": "Anime Artifacts Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Artifacts%20Simulator"
+	},
+	"2366560560": {
+		"DISCONTINUED": true,
+		"Name": "Miraculous RP",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Miraculous%20RP"
 	},
 	"2734315222": {
 		"DISCONTINUED": true,
