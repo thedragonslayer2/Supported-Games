@@ -73,7 +73,7 @@
 	},
 	"2715844182": {
 		"Name": "Hospital Tycoon - 7050008107",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/GamesList/Hospital%20Tycoon%20-%207050008107"
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Hospital%20Tycoon%20-%207050008107.lua"
 	},
 	"1359362132": {
 		"Name": "House Tycoon - 4109933355",
@@ -110,10 +110,6 @@
 	"2426874309": {
 		"Name": "Slayer Tycoon",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Slayer%20Tycoon"
-	},
-	"668582985": {
-		"Name": "Egg Farm Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
 	},
 	"2663599422": {
 		"Name": "Eating Simulator",
@@ -186,5 +182,10 @@
 		"DISCONTINUED": true,
 		"Name": "Anime Destroyers Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
+	},
+	"668582985": {
+		"DISCONTINUED": true,
+		"Name": "Egg Farm Simulator",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
 	}
 }
