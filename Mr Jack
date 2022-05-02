@@ -1,4 +1,12 @@
 {
+	"1465584587": {
+		"Name": "Mega Noob Simulator - 4543144283",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Mega%20Noob%20Simulator%20-%204543144283.lua"
+	},
+	"668582985": {
+		"Name": "Egg Farm Simulator - 1828509885",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Egg%20Farm%20Simulator%20-%201828509885.lua"
+	},
 	"3422612987": {
 		"Name": "Warriors Army Simulator - 9107946567",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Warriors%20Army%20Simulator%20-%209107946567.lua"
@@ -143,10 +151,6 @@
 		"Name": "Anime Storm Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Storm%20Simulator"
 	},
-	"1465584587": {
-		"Name": "Mega Noob Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Mega%20Noob%20Simulator"
-	},
 	"2512238361": {
 		"Name": "Ninja Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/%E2%9A%A1Ninja%20Simulator"
@@ -215,10 +219,5 @@
 		"DISCONTINUED": true,
 		"Name": "Manic Mining 2 - 8138268107",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Manic%20Mining%202%20-%208138268107.lua"
-	},
-	"668582985": {
-		"DISCONTINUED": true,
-		"Name": "Egg Farm Simulator",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Egg%20Farm%20Simulator"
 	}
 }
