@@ -39,10 +39,6 @@
 		"Name": "Bloxy Bingo - 5244411056",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Bloxy%20Bingo%20-5244411056.lua"
 	},
-	"3208737521": {
-		"Name": "Ninja Star Simulator - 8381567809",
-		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Ninja%20Star%20Simulator%20-%208381567809.lua"
-	},
 	"97314177": {
 		"Name": "Ninja Tycoon - 221718525",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Ninja%20Tycoon%20-%20221718525.lua"
@@ -226,6 +222,11 @@
 		"DISCONTINUED": true,
 		"Name": "Anime Destroyers Simulator",
 		"Link": "https://raw.githubusercontent.com/thedragonslayer2/hey/main/Games/Anime%20Destroyers"
+	},
+	"3208737521": {
+		"DISCONTINUED": true,
+		"Name": "Ninja Star Simulator - 8381567809",
+		"Link": "https://raw.githubusercontent.com/thedragonslayer2/MrJack-Game-List/main/Ninja%20Star%20Simulator%20-%208381567809.lua"
 	},
 	"3129465052": {
 		"DISCONTINUED": true,
